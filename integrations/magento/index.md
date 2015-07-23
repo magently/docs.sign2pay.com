@@ -27,7 +27,7 @@ You can then download the module on the right hand side of the screen.
 
 <img src="/images/integrations/magento/Schermafbeelding_2014-12-02_om_14_30_361-1024x899.png">
 
-You can also download the extension directly from our website: [https://sign2pay.com/integrations/magento/latest.tgz](https://sign2pay.com/integrations/magento/latest.tgz).
+You can also download the extension directly: [https://github.com/Sign2Pay/magento-sign2pay/releases](https://github.com/Sign2Pay/magento-sign2pay/releases). This shows you a list of versions, with the most recent version at the top. Download either the .zip or .tar.gz archive and upload this to your Magento admin.
 
 ## Installation
 
